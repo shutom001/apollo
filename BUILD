@@ -5,4 +5,4 @@ package(
 exports_files([
     "CPPLINT.cfg",
 ])
-//hello world
+//hello
